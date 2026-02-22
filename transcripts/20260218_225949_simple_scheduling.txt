@@ -1,0 +1,19 @@
+Call Transcript: simple_scheduling
+Call SID: CAea81049a1a5f8ebbf0f9096236b6863b
+Date: 20260218_225949
+============================================================
+
+PATIENT: Hi, I'm calling to schedule a routine checkup appointment.
+
+AGENT:   recorded for quality and training purposes
+
+PATIENT: That's fine, I understand. I'm looking to book an appointment for next week if possible.
+
+AGENT:   got it would you like to create a demo patient profile so i can help you schedule your appointment just need your first and last name to get started
+
+PATIENT: Sure, my name is Sarah Johnson.
+
+AGENT:   your patient profile is set up and your date of birth is july fourth two thousand for demo purposes how may i help you today
+
+PATIENT: Actually, my date of birth is March 15, 1990. I’d like to schedule a routine checkup for next week, if possible.
+

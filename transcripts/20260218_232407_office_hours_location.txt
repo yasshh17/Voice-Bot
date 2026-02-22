@@ -1,0 +1,35 @@
+Call Transcript: office_hours_location
+Call SID: CA93e616a38d162f2c622d1a69ad98a96d
+Date: 20260218_232407
+============================================================
+
+PATIENT: Hi, I'm calling to check on your office hours and confirm your address.
+
+AGENT:   recorded for quality and training purposes
+
+PATIENT: Okay, thanks for letting me know. Can you tell me if you're open on Saturdays?
+
+AGENT:   part of pretty good ai am i speaking with sarah
+
+PATIENT: Actually, this is Karen Lee. Can you confirm if you're open on Saturdays?
+
+AGENT:   pivot point orthopedics is open monday through friday but we are closed on saturdays if you need to schedule an appointment or have any questions i can help with that
+
+PATIENT: Alright, thanks for that. And can you confirm the office address for me? My GPS is showing two locations.
+
+AGENT:   the address for pivot point orthopedics is two two zero athens way nashville you need anything else just let me know
+
+PATIENT: I think my GPS also shows two twenty-one Athens Way. Can you double-check if that's correct?
+
+AGENT:   i have the address as two two zero athens way nashville if you need to confirm anything else or have questions about your visit let me know
+
+PATIENT: Okay, thanks for confirming that. I appreciate your help! Goodbye!
+
+AGENT:   got it have a great day goodbye
+
+PATIENT: You too, goodbye!
+
+AGENT:   got it have a great day goodbye
+
+PATIENT: Goodbye!
+

@@ -1,0 +1,71 @@
+Call Transcript: edge_case_silence
+Call SID: CA53b3e164f1d2641be1a43fa3c3b451a5
+Date: 20260218_235845
+============================================================
+
+PATIENT: Hi, I'm calling to schedule an appointment.
+
+AGENT:   recorded for quality and training purposes but point orthopedics part of pretty good dot ai am i speaking with sarah
+
+PATIENT: No, it's Pat.
+
+AGENT:   got it pat i have the patient's date of birth to help you further
+
+PATIENT: Okay.
+
+AGENT:   please tell me the date of birth for the patient you're calling about
+
+PATIENT: It's January 5th, 1980.
+
+AGENT:   i'll need your full name including your last name along with the date of birth could you provide your last name please
+
+PATIENT: It's Morgan.
+
+AGENT:   let me confirm your name is pat morgan and your date of birth is january fifth nineteen eighty
+
+PATIENT: Yes, that's right.
+
+AGENT:   is that correct if so please spell your
+
+PATIENT: M-O-R-G-A-N.
+
+AGENT:   could you please spell out your
+
+PATIENT: My what?
+
+AGENT:   thanks for stalling your last name you also spell your first name pat just to make sure i have it right and just to confirm is your last name spelled m o r g n or did you mean m o r g a n
+
+PATIENT: It's M-O-R-G-A-N. Pat, P-A-T.
+
+AGENT:   you like me to look up your record using the phone number you have on file with us if so please tell me that number if you're not sure i can confirm your name and date of birth again which would you prefer
+
+PATIENT: I can give you the phone number. It's 555-1234.
+
+AGENT:   let me confirm your phone number is five five five one two three four and your date of birth is january fifth nineteen eighty is that correct
+
+PATIENT: Yes, that's correct.
+
+AGENT:   i can't proceed further right now but i can make sure our clinic support team follows up with you would you like me to connect you to our patient support team
+
+PATIENT: Hmm, I guess Tuesday.
+
+AGENT:   i understand you're interested in an appointment on tuesday i still need to get your information verified so our clinic support team can help you i'll connect you now please stay on the line
+
+PATIENT: Okay.
+
+AGENT:   live available right
+
+PATIENT: Yes.
+
+AGENT:   i'll document your request and let our clinic support team know you want an appointment on tuesday they'll get back to you as soon as they can there anything else you'd like me to mention to the team
+
+PATIENT: No, that's it.
+
+AGENT:   got it i'll make sure your request is sent to the clinic support team hear back from them as soon as possible have a good day
+
+PATIENT: Thank you. Goodbye.
+
+AGENT:   got it i'll make sure your request is sent to the clinic support team hear back from them as soon as possible have a good day
+
+PATIENT: Goodbye.
+

@@ -1,0 +1,102 @@
+{
+  "call_sid": "CAe62ff29ef191a5e7eedffd45e6ae6e6d",
+  "scenario": "medication_refill",
+  "timestamp": "20260218_232418",
+  "conversation": [
+    {
+      "speaker": "patient_bot",
+      "text": "Hi, I'm calling to request a refill on my Lisinopril 10mg.",
+      "timestamp": "2026-02-18T23:21:04.976069"
+    },
+    {
+      "speaker": "agent",
+      "text": "recorded for quality and training purposes",
+      "timestamp": "2026-02-18T23:21:11.387468"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Okay, thank you for letting me know. I've been on Lisinopril for about three years now.",
+      "timestamp": "2026-02-18T23:21:12.795367"
+    },
+    {
+      "speaker": "agent",
+      "text": "part of pretty good ai am i speaking with sarah",
+      "timestamp": "2026-02-18T23:21:19.019682"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "No, this is Patricia Williams. I need to refill my medication.",
+      "timestamp": "2026-02-18T23:21:19.910223"
+    },
+    {
+      "speaker": "agent",
+      "text": "thanks for letting me know patricia can you please provide your date of birth so i can verify your identity before helping with your medication refill",
+      "timestamp": "2026-02-18T23:21:36.139851"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Sure, my date of birth is November 3, 1962.",
+      "timestamp": "2026-02-18T23:21:37.079629"
+    },
+    {
+      "speaker": "agent",
+      "text": "let me confirm your details i have your name as the patricia williams and your date of birth as november third nineteen sixty two",
+      "timestamp": "2026-02-18T23:21:58.438805"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Yes, that's correct.",
+      "timestamp": "2026-02-18T23:21:58.978754"
+    },
+    {
+      "speaker": "agent",
+      "text": "is that correct if so could you please spell your",
+      "timestamp": "2026-02-18T23:22:02.334226"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Sure, it's P-A-T-R-I-C-I-A W-I-L-L-I-A-M-S.",
+      "timestamp": "2026-02-18T23:22:03.110721"
+    },
+    {
+      "speaker": "agent",
+      "text": "great",
+      "timestamp": "2026-02-18T23:22:10.237759"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Thank you! Could you help me with the refill now?",
+      "timestamp": "2026-02-18T23:22:11.161307"
+    },
+    {
+      "speaker": "agent",
+      "text": "i need to verify your record first you like me to look up your record using your phone number if so please provide the number you have on file with us if you're not sure i can confirm your name and date of birth again which would you prefer",
+      "timestamp": "2026-02-18T23:22:31.904970"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "You can use my phone number. It's 555-123-4567.",
+      "timestamp": "2026-02-18T23:22:32.672568"
+    },
+    {
+      "speaker": "agent",
+      "text": "let me confirm your phone number is five five five",
+      "timestamp": "2026-02-18T23:22:52.480977"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Actually, it's 555-123-4567.",
+      "timestamp": "2026-02-18T23:22:53.120267"
+    },
+    {
+      "speaker": "agent",
+      "text": "one two three four five six seven and your date of birth is no",
+      "timestamp": "2026-02-18T23:23:00.180780"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Wait, my date of birth is November 3, 1962. Could you please check again?",
+      "timestamp": "2026-02-18T23:23:01.660794"
+    }
+  ]
+}

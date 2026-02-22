@@ -1,0 +1,23 @@
+Call Transcript: reschedule_appointment
+Call SID: CAf23c6188b9a0423dfe5d959c4deb70b1
+Date: 20260218_232207
+============================================================
+
+PATIENT: Hi, I'm calling to reschedule my appointment on Friday at 2pm.
+
+AGENT:   recorded for quality and training purposes part of pretty good ai i speaking with sarah
+
+PATIENT: Hi Sarah, thanks for taking my call. I need to move my appointment to the following week.
+
+AGENT:   got it you'd like to reschedule your appointment to the following week can you please confirm your date of birth so i can verify your identity
+
+PATIENT: Sure, it's July 22, 1985.
+
+AGENT:   thanks let me confirm your date of birth is july twenty second nineteen eighty correct
+
+PATIENT: Yes, that's correct. Thanks!
+
+AGENT:   the birth
+
+PATIENT: Sorry, I think there was a mix-up. My date of birth is July 22, 1985. Can we move on to rescheduling?
+

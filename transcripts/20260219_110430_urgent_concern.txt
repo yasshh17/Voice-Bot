@@ -1,0 +1,15 @@
+Call Transcript: urgent_concern
+Call SID: CAec6459d3a8fc77c20c2b61e7a2faefab
+Date: 20260219_110430
+============================================================
+
+PATIENT: Hi, I'm calling to ask about some chest pain I've been having for the past hour.
+
+AGENT:   recorded for quality and training purposes
+
+PATIENT: Okay, thanks for letting me know. I'm just really concerned about this chest pain. Should I come in today or go to the ER?
+
+PATIENT: Hello? Are you still there?
+
+PATIENT: Hello? Is anyone there?
+

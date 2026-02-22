@@ -1,0 +1,52 @@
+{
+  "call_sid": "CAf23c6188b9a0423dfe5d959c4deb70b1",
+  "scenario": "reschedule_appointment",
+  "timestamp": "20260218_232207",
+  "conversation": [
+    {
+      "speaker": "patient_bot",
+      "text": "Hi, I'm calling to reschedule my appointment on Friday at 2pm.",
+      "timestamp": "2026-02-18T23:20:19.868899"
+    },
+    {
+      "speaker": "agent",
+      "text": "recorded for quality and training purposes part of pretty good ai i speaking with sarah",
+      "timestamp": "2026-02-18T23:20:29.865279"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Hi Sarah, thanks for taking my call. I need to move my appointment to the following week.",
+      "timestamp": "2026-02-18T23:20:30.848893"
+    },
+    {
+      "speaker": "agent",
+      "text": "got it you'd like to reschedule your appointment to the following week can you please confirm your date of birth so i can verify your identity",
+      "timestamp": "2026-02-18T23:20:48.026582"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Sure, it's July 22, 1985.",
+      "timestamp": "2026-02-18T23:20:49.081153"
+    },
+    {
+      "speaker": "agent",
+      "text": "thanks let me confirm your date of birth is july twenty second nineteen eighty correct",
+      "timestamp": "2026-02-18T23:21:02.998464"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Yes, that's correct. Thanks!",
+      "timestamp": "2026-02-18T23:21:04.049245"
+    },
+    {
+      "speaker": "agent",
+      "text": "the birth",
+      "timestamp": "2026-02-18T23:21:08.086831"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Sorry, I think there was a mix-up. My date of birth is July 22, 1985. Can we move on to rescheduling?",
+      "timestamp": "2026-02-18T23:21:09.052975"
+    }
+  ]
+}

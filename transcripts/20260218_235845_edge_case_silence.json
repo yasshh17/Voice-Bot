@@ -1,0 +1,172 @@
+{
+  "call_sid": "CA53b3e164f1d2641be1a43fa3c3b451a5",
+  "scenario": "edge_case_silence",
+  "timestamp": "20260218_235845",
+  "conversation": [
+    {
+      "speaker": "patient_bot",
+      "text": "Hi, I'm calling to schedule an appointment.",
+      "timestamp": "2026-02-18T23:55:19.478059"
+    },
+    {
+      "speaker": "agent",
+      "text": "recorded for quality and training purposes but point orthopedics part of pretty good dot ai am i speaking with sarah",
+      "timestamp": "2026-02-18T23:55:28.024084"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "No, it's Pat.",
+      "timestamp": "2026-02-18T23:55:28.572983"
+    },
+    {
+      "speaker": "agent",
+      "text": "got it pat i have the patient's date of birth to help you further",
+      "timestamp": "2026-02-18T23:55:40.202009"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Okay.",
+      "timestamp": "2026-02-18T23:55:40.881770"
+    },
+    {
+      "speaker": "agent",
+      "text": "please tell me the date of birth for the patient you're calling about",
+      "timestamp": "2026-02-18T23:55:51.425703"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "It's January 5th, 1980.",
+      "timestamp": "2026-02-18T23:55:52.686437"
+    },
+    {
+      "speaker": "agent",
+      "text": "i'll need your full name including your last name along with the date of birth could you provide your last name please",
+      "timestamp": "2026-02-18T23:56:08.769561"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "It's Morgan.",
+      "timestamp": "2026-02-18T23:56:09.767590"
+    },
+    {
+      "speaker": "agent",
+      "text": "let me confirm your name is pat morgan and your date of birth is january fifth nineteen eighty",
+      "timestamp": "2026-02-18T23:56:22.624317"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Yes, that's right.",
+      "timestamp": "2026-02-18T23:56:23.301022"
+    },
+    {
+      "speaker": "agent",
+      "text": "is that correct if so please spell your",
+      "timestamp": "2026-02-18T23:56:27.104344"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "M-O-R-G-A-N.",
+      "timestamp": "2026-02-18T23:56:27.898041"
+    },
+    {
+      "speaker": "agent",
+      "text": "could you please spell out your",
+      "timestamp": "2026-02-18T23:56:32.024343"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "My what?",
+      "timestamp": "2026-02-18T23:56:32.619345"
+    },
+    {
+      "speaker": "agent",
+      "text": "thanks for stalling your last name you also spell your first name pat just to make sure i have it right and just to confirm is your last name spelled m o r g n or did you mean m o r g a n",
+      "timestamp": "2026-02-18T23:56:50.743315"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "It's M-O-R-G-A-N. Pat, P-A-T.",
+      "timestamp": "2026-02-18T23:56:51.672663"
+    },
+    {
+      "speaker": "agent",
+      "text": "you like me to look up your record using the phone number you have on file with us if so please tell me that number if you're not sure i can confirm your name and date of birth again which would you prefer",
+      "timestamp": "2026-02-18T23:57:11.645139"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "I can give you the phone number. It's 555-1234.",
+      "timestamp": "2026-02-18T23:57:12.583941"
+    },
+    {
+      "speaker": "agent",
+      "text": "let me confirm your phone number is five five five one two three four and your date of birth is january fifth nineteen eighty is that correct",
+      "timestamp": "2026-02-18T23:57:34.184906"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Yes, that's correct.",
+      "timestamp": "2026-02-18T23:57:34.705586"
+    },
+    {
+      "speaker": "agent",
+      "text": "i can't proceed further right now but i can make sure our clinic support team follows up with you would you like me to connect you to our patient support team",
+      "timestamp": "2026-02-18T23:57:50.103206"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Hmm, I guess Tuesday.",
+      "timestamp": "2026-02-18T23:57:50.906810"
+    },
+    {
+      "speaker": "agent",
+      "text": "i understand you're interested in an appointment on tuesday i still need to get your information verified so our clinic support team can help you i'll connect you now please stay on the line",
+      "timestamp": "2026-02-18T23:58:08.923482"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Okay.",
+      "timestamp": "2026-02-18T23:58:09.582952"
+    },
+    {
+      "speaker": "agent",
+      "text": "live available right",
+      "timestamp": "2026-02-18T23:58:12.602707"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Yes.",
+      "timestamp": "2026-02-18T23:58:13.106146"
+    },
+    {
+      "speaker": "agent",
+      "text": "i'll document your request and let our clinic support team know you want an appointment on tuesday they'll get back to you as soon as they can there anything else you'd like me to mention to the team",
+      "timestamp": "2026-02-18T23:58:26.084129"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "No, that's it.",
+      "timestamp": "2026-02-18T23:58:26.646420"
+    },
+    {
+      "speaker": "agent",
+      "text": "got it i'll make sure your request is sent to the clinic support team hear back from them as soon as possible have a good day",
+      "timestamp": "2026-02-18T23:58:40.303853"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Thank you. Goodbye.",
+      "timestamp": "2026-02-18T23:58:40.898180"
+    },
+    {
+      "speaker": "agent",
+      "text": "got it i'll make sure your request is sent to the clinic support team hear back from them as soon as possible have a good day",
+      "timestamp": "2026-02-18T23:58:42.761271"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Goodbye.",
+      "timestamp": "2026-02-18T23:58:43.322249"
+    }
+  ]
+}

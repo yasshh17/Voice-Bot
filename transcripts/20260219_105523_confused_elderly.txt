@@ -1,0 +1,33 @@
+Call Transcript: confused_elderly
+Call SID: CA1bdd16bef94c7d2883bd7b6371254ff1
+Date: 20260219_105523
+============================================================
+
+PATIENT: Hi, I'm calling to find out which doctor I’m supposed to see. I think it might be Dr. Smith or maybe Dr. Jones?
+
+AGENT:   recorded for quality and training purposes
+
+PATIENT: Oh, okay. I just need to know about my appointment with Dr. Smith or Dr. Jones, if you could help me with that.
+
+PATIENT: Hello? Are you still there? I just need a little help with my appointment.
+
+AGENT:   i can help with that to look up your appointment i'll need your date of birth could you please provide that
+
+PATIENT: Sure, it's July 15, 1945. I hope that helps!
+
+AGENT:   got it just to confirm can you please spell out your full name for me i have your date of birth as july fifteenth nineteen forty five
+
+PATIENT: Of course, it’s Robert Johnson. That’s R-O-B-E-R-T J-O-H-N-S-O-N.
+
+PATIENT: Hello? Did you get that? It's Robert Johnson.
+
+AGENT:   got it you like me to look up your record using your phone number if so please provide the number you have on file with us if you're not sure just let me know
+
+PATIENT: Sure, the number is 555-123-4567. I hope that’s the right one.
+
+PATIENT: Hello? Can you hear me? I gave you my phone number.
+
+PATIENT: Uh, is everything alright? I just need to know about my appointment with Dr. Smith or Dr. Jones.
+
+PATIENT: Hello? Are you still there? I really need some help with this.
+

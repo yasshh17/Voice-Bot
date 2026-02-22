@@ -1,0 +1,32 @@
+{
+  "call_sid": "CAec6459d3a8fc77c20c2b61e7a2faefab",
+  "scenario": "urgent_concern",
+  "timestamp": "20260219_110430",
+  "conversation": [
+    {
+      "speaker": "patient_bot",
+      "text": "Hi, I'm calling to ask about some chest pain I've been having for the past hour.",
+      "timestamp": "2026-02-19T11:02:03.543758"
+    },
+    {
+      "speaker": "agent",
+      "text": "recorded for quality and training purposes",
+      "timestamp": "2026-02-19T11:02:03.636008"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Okay, thanks for letting me know. I'm just really concerned about this chest pain. Should I come in today or go to the ER?",
+      "timestamp": "2026-02-19T11:02:06.112105"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Hello? Are you still there?",
+      "timestamp": "2026-02-19T11:02:43.797007"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Hello? Is anyone there?",
+      "timestamp": "2026-02-19T11:03:31.374982"
+    }
+  ]
+}

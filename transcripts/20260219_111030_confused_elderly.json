@@ -1,0 +1,42 @@
+{
+  "call_sid": "CA180fc1ca78deec32f9316f13f0507e0a",
+  "scenario": "confused_elderly",
+  "timestamp": "20260219_111030",
+  "conversation": [
+    {
+      "speaker": "patient_bot",
+      "text": "Hi, I'm calling to find out about an appointment I have, but I'm a bit confused about which doctor I need to see. I think it was Dr. Smith or maybe Dr. Jones.",
+      "timestamp": "2026-02-19T11:08:42.688209"
+    },
+    {
+      "speaker": "agent",
+      "text": "recorded for quality and training purposes",
+      "timestamp": "2026-02-19T11:08:42.814094"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Oh, okay, that's fine. I just want to make sure I'm speaking to the right person about my appointment.",
+      "timestamp": "2026-02-19T11:08:43.977851"
+    },
+    {
+      "speaker": "agent",
+      "text": "thanks for calling tip",
+      "timestamp": "2026-02-19T11:08:52.385669"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Sure thing! Can you help me figure out if I\u2019m supposed to see Dr. Smith or Dr. Jones? I seem to be a little mixed up.",
+      "timestamp": "2026-02-19T11:08:53.986164"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Hello? Are you still there? I just want to make sure I get the right doctor.",
+      "timestamp": "2026-02-19T11:09:37.866181"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Hello? Can you hear me? I really need help finding out about my appointment.",
+      "timestamp": "2026-02-19T11:10:28.586890"
+    }
+  ]
+}

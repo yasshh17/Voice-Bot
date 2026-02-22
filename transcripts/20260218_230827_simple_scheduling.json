@@ -1,0 +1,52 @@
+{
+  "call_sid": "CA3488f9d808b837bbe423d488c3c4050e",
+  "scenario": "simple_scheduling",
+  "timestamp": "20260218_230827",
+  "conversation": [
+    {
+      "speaker": "patient_bot",
+      "text": "Hi, I'm calling to schedule a routine checkup appointment.",
+      "timestamp": "2026-02-18T23:06:31.691590"
+    },
+    {
+      "speaker": "agent",
+      "text": "recorded for quality and training purposes phoenix of pretty good ai am i speaking with sarah",
+      "timestamp": "2026-02-18T23:06:40.236798"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Yes, this is Sarah Johnson.",
+      "timestamp": "2026-02-18T23:06:40.796491"
+    },
+    {
+      "speaker": "agent",
+      "text": "got it sarah can you please tell me your date of birth to verify your identity",
+      "timestamp": "2026-02-18T23:06:52.316883"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Sure, my date of birth is March 15, 1990.",
+      "timestamp": "2026-02-18T23:06:52.922963"
+    },
+    {
+      "speaker": "agent",
+      "text": "thanks let me confirm your information i have your first name as sarah and your date of birth as march fifteenth nineteen ninety one moment while i verify your identity",
+      "timestamp": "2026-02-18T23:07:11.456691"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Actually, it's March 15, 1990, not 1991.",
+      "timestamp": "2026-02-18T23:07:12.107389"
+    },
+    {
+      "speaker": "agent",
+      "text": "got it sarah",
+      "timestamp": "2026-02-18T23:07:24.038377"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Thank you! I\u2019d like to schedule my appointment for next week. I'm available Tuesday or Thursday afternoons.",
+      "timestamp": "2026-02-18T23:07:25.617931"
+    }
+  ]
+}

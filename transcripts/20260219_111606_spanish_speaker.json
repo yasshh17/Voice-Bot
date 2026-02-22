@@ -1,0 +1,97 @@
+{
+  "call_sid": "CAf1c8b6d55c23b47da3cb84b176a91fc8",
+  "scenario": "spanish_speaker",
+  "timestamp": "20260219_111606",
+  "conversation": [
+    {
+      "speaker": "agent",
+      "text": "for quality and training purposes",
+      "timestamp": "2026-02-19T11:13:59.076833"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Hi, I'm calling to schedule an appointment for my son. He needs a school physical.",
+      "timestamp": "2026-02-19T11:13:59.092490"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Hi, I'm calling to schedule an appointment for my son. He needs a school physical. Do you speak Spanish?",
+      "timestamp": "2026-02-19T11:13:59.710224"
+    },
+    {
+      "speaker": "agent",
+      "text": "thanks for calling pivot",
+      "timestamp": "2026-02-19T11:14:06.682658"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Gracias. I need to schedule an appointment for my son. He is 8 years old.",
+      "timestamp": "2026-02-19T11:14:07.317357"
+    },
+    {
+      "speaker": "agent",
+      "text": "would you like me to connect you to a spanish speaking agent",
+      "timestamp": "2026-02-19T11:14:23.114764"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Yes, please. That would help me a lot. Thank you!",
+      "timestamp": "2026-02-19T11:14:23.779607"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Hello? Are you still there?",
+      "timestamp": "2026-02-19T11:14:54.885224"
+    },
+    {
+      "speaker": "agent",
+      "text": "how may i help you today",
+      "timestamp": "2026-02-19T11:15:10.638367"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "I want to schedule a school physical for my son. He is 8 years old. ",
+      "timestamp": "2026-02-19T11:15:11.175424"
+    },
+    {
+      "speaker": "agent",
+      "text": "got it pivotpoint orthopedics focuses on joint muscle and bone care and does not offer general school physicals that's not something we offer",
+      "timestamp": "2026-02-19T11:15:30.002065"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Oh, I see. Where can I go for a school physical for my son?",
+      "timestamp": "2026-02-19T11:15:30.607332"
+    },
+    {
+      "speaker": "agent",
+      "text": "i'm not able to recommend specific places for school physicals you might try try your child's primary care doctor or a local urgent care clinic",
+      "timestamp": "2026-02-19T11:15:49.055947"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Okay, I will try that. Thank you for your help! Goodbye!",
+      "timestamp": "2026-02-19T11:15:49.536239"
+    },
+    {
+      "speaker": "agent",
+      "text": "got it take care and have a great day goodbye",
+      "timestamp": "2026-02-19T11:16:00.794628"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Gracias, you too! Goodbye!",
+      "timestamp": "2026-02-19T11:16:01.323203"
+    },
+    {
+      "speaker": "agent",
+      "text": "got it take care and have a great day goodbye",
+      "timestamp": "2026-02-19T11:16:03.224183"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Thank you! Goodbye!",
+      "timestamp": "2026-02-19T11:16:03.676098"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "call_sid": "CA93e616a38d162f2c622d1a69ad98a96d",
+  "scenario": "office_hours_location",
+  "timestamp": "20260218_232407",
+  "conversation": [
+    {
+      "speaker": "patient_bot",
+      "text": "Hi, I'm calling to check on your office hours and confirm your address.",
+      "timestamp": "2026-02-18T23:22:35.407307"
+    },
+    {
+      "speaker": "agent",
+      "text": "recorded for quality and training purposes",
+      "timestamp": "2026-02-18T23:22:42.858593"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Okay, thanks for letting me know. Can you tell me if you're open on Saturdays?",
+      "timestamp": "2026-02-18T23:22:44.440421"
+    },
+    {
+      "speaker": "agent",
+      "text": "part of pretty good ai am i speaking with sarah",
+      "timestamp": "2026-02-18T23:22:49.429459"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Actually, this is Karen Lee. Can you confirm if you're open on Saturdays?",
+      "timestamp": "2026-02-18T23:22:50.011075"
+    },
+    {
+      "speaker": "agent",
+      "text": "pivot point orthopedics is open monday through friday but we are closed on saturdays if you need to schedule an appointment or have any questions i can help with that",
+      "timestamp": "2026-02-18T23:23:08.609562"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Alright, thanks for that. And can you confirm the office address for me? My GPS is showing two locations.",
+      "timestamp": "2026-02-18T23:23:09.408687"
+    },
+    {
+      "speaker": "agent",
+      "text": "the address for pivot point orthopedics is two two zero athens way nashville you need anything else just let me know",
+      "timestamp": "2026-02-18T23:23:29.447913"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "I think my GPS also shows two twenty-one Athens Way. Can you double-check if that's correct?",
+      "timestamp": "2026-02-18T23:23:30.151179"
+    },
+    {
+      "speaker": "agent",
+      "text": "i have the address as two two zero athens way nashville if you need to confirm anything else or have questions about your visit let me know",
+      "timestamp": "2026-02-18T23:23:50.031081"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Okay, thanks for confirming that. I appreciate your help! Goodbye!",
+      "timestamp": "2026-02-18T23:23:50.631075"
+    },
+    {
+      "speaker": "agent",
+      "text": "got it have a great day goodbye",
+      "timestamp": "2026-02-18T23:24:02.408497"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "You too, goodbye!",
+      "timestamp": "2026-02-18T23:24:03.466956"
+    },
+    {
+      "speaker": "agent",
+      "text": "got it have a great day goodbye",
+      "timestamp": "2026-02-18T23:24:04.092648"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Goodbye!",
+      "timestamp": "2026-02-18T23:24:04.447517"
+    }
+  ]
+}

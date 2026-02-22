@@ -1,0 +1,42 @@
+{
+  "call_sid": "CAea81049a1a5f8ebbf0f9096236b6863b",
+  "scenario": "simple_scheduling",
+  "timestamp": "20260218_225949",
+  "conversation": [
+    {
+      "speaker": "patient_bot",
+      "text": "Hi, I'm calling to schedule a routine checkup appointment.",
+      "timestamp": "2026-02-18T22:57:55.189879"
+    },
+    {
+      "speaker": "agent",
+      "text": "recorded for quality and training purposes",
+      "timestamp": "2026-02-18T22:58:00.484921"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "That's fine, I understand. I'm looking to book an appointment for next week if possible.",
+      "timestamp": "2026-02-18T22:58:01.008763"
+    },
+    {
+      "speaker": "agent",
+      "text": "got it would you like to create a demo patient profile so i can help you schedule your appointment just need your first and last name to get started",
+      "timestamp": "2026-02-18T22:58:19.185773"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Sure, my name is Sarah Johnson.",
+      "timestamp": "2026-02-18T22:58:20.590204"
+    },
+    {
+      "speaker": "agent",
+      "text": "your patient profile is set up and your date of birth is july fourth two thousand for demo purposes how may i help you today",
+      "timestamp": "2026-02-18T22:58:36.988894"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Actually, my date of birth is March 15, 1990. I\u2019d like to schedule a routine checkup for next week, if possible.",
+      "timestamp": "2026-02-18T22:58:38.416621"
+    }
+  ]
+}

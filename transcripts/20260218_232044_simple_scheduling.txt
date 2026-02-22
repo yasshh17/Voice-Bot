@@ -1,0 +1,15 @@
+Call Transcript: simple_scheduling
+Call SID: CA4c14280ae637866f1be67dc0f8776a00
+Date: 20260218_232044
+============================================================
+
+PATIENT: Hi, I'm calling to schedule a routine checkup appointment.
+
+AGENT:   recorded for quality and training purposes
+
+PATIENT: That's fine, thank you! I'm looking to schedule a checkup for next week.
+
+AGENT:   part of pretty good ai i speak
+
+PATIENT: Oh, okay! I'm just looking to schedule my appointment for a routine checkup. I'm available Tuesday or Thursday afternoons next week.
+

@@ -1,0 +1,42 @@
+{
+  "call_sid": "CAe277d8c282e721ac066d9a444ba1bed6",
+  "scenario": "cancel_appointment",
+  "timestamp": "20260218_235503",
+  "conversation": [
+    {
+      "speaker": "patient_bot",
+      "text": "Hi, I'm calling to cancel my appointment for tomorrow morning.",
+      "timestamp": "2026-02-18T23:53:08.278895"
+    },
+    {
+      "speaker": "agent",
+      "text": "recorded for quality and training purposes ice by orthopedics part of pretty good ai am i speaking with sarah",
+      "timestamp": "2026-02-18T23:53:18.217457"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "No, this is Emily Taylor.",
+      "timestamp": "2026-02-18T23:53:18.764024"
+    },
+    {
+      "speaker": "agent",
+      "text": "got it emily can you please provide the date of birth for the patient you're calling about",
+      "timestamp": "2026-02-18T23:53:31.483112"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Sure, it's September 15, 1990.",
+      "timestamp": "2026-02-18T23:53:32.275910"
+    },
+    {
+      "speaker": "agent",
+      "text": "let me confirm your name is emily taylor and your date of birth is september fifth nineteen ninety is that correct if so could you please spell your first and last name for me",
+      "timestamp": "2026-02-18T23:53:54.766361"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Actually, it's September 15, 1990. But yes, my name is Emily Taylor, E-M-I-L-Y T-A-Y-L-O-R.",
+      "timestamp": "2026-02-18T23:53:55.750873"
+    }
+  ]
+}

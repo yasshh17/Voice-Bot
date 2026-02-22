@@ -1,0 +1,19 @@
+Call Transcript: spanish_speaker
+Call SID: CA664bf460683984e4ff29ad36af1dafcc
+Date: 20260218_234146
+============================================================
+
+PATIENT: Hi, I'm calling to make an appointment for my son. He needs a school physical.
+
+AGENT:   recorded for quality and training purposes but i pretty good ai am i speaking with sarah
+
+PATIENT: No, my name is Maria Garcia. I want to schedule an appointment for my son, please. Do you speak español?
+
+AGENT:   would you like me to connect you to a spanish speaking agent
+
+PATIENT: Yes, please. That would be helpful. Thank you!
+
+AGENT:   are you a steal there
+
+PATIENT: I think you meant to say "still there." Yes, I'm here. Thank you! Can you connect me to a Spanish-speaking agent?
+

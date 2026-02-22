@@ -1,0 +1,42 @@
+{
+  "call_sid": "CA931ca9246f98d913f6d6742c82c5d0ff",
+  "scenario": "urgent_concern",
+  "timestamp": "20260218_235108",
+  "conversation": [
+    {
+      "speaker": "patient_bot",
+      "text": "Hi, I'm calling to see if I should come in today. I've been having some chest pain for the past hour.",
+      "timestamp": "2026-02-18T23:49:14.864408"
+    },
+    {
+      "speaker": "agent",
+      "text": "recorded for quality and training purposes",
+      "timestamp": "2026-02-18T23:49:21.667641"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Okay, that's fine. I just need to know if I should come in or go to the ER.",
+      "timestamp": "2026-02-18T23:49:22.447819"
+    },
+    {
+      "speaker": "agent",
+      "text": "got it can you tell me your date of birth so i can check your records and help you decide what to do next",
+      "timestamp": "2026-02-18T23:49:39.237666"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Sure, it's March 15, 1978.",
+      "timestamp": "2026-02-18T23:49:39.896360"
+    },
+    {
+      "speaker": "agent",
+      "text": "the birthday you gave doesn't match our records but for demo purposes i'll accept it what symptoms or concerns are you having right now that will help me guide you on whether to come in or seek urgent care",
+      "timestamp": "2026-02-18T23:50:01.130728"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "I'm experiencing chest pain that's been going on for about an hour. It's not severe, but it's really concerning me.",
+      "timestamp": "2026-02-18T23:50:02.687093"
+    }
+  ]
+}

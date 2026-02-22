@@ -1,0 +1,19 @@
+Call Transcript: urgent_concern
+Call SID: CA931ca9246f98d913f6d6742c82c5d0ff
+Date: 20260218_235108
+============================================================
+
+PATIENT: Hi, I'm calling to see if I should come in today. I've been having some chest pain for the past hour.
+
+AGENT:   recorded for quality and training purposes
+
+PATIENT: Okay, that's fine. I just need to know if I should come in or go to the ER.
+
+AGENT:   got it can you tell me your date of birth so i can check your records and help you decide what to do next
+
+PATIENT: Sure, it's March 15, 1978.
+
+AGENT:   the birthday you gave doesn't match our records but for demo purposes i'll accept it what symptoms or concerns are you having right now that will help me guide you on whether to come in or seek urgent care
+
+PATIENT: I'm experiencing chest pain that's been going on for about an hour. It's not severe, but it's really concerning me.
+

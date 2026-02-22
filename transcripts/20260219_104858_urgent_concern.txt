@@ -1,0 +1,23 @@
+Call Transcript: urgent_concern
+Call SID: CAc6c518c1b51d4345662152f776ec3ef7
+Date: 20260219_104858
+============================================================
+
+PATIENT: Hi, I'm calling to see if I should come in today. I've been having some chest pain for the past hour.
+
+AGENT:   for quality and training purposes
+
+PATIENT: I understand, but I'm really concerned about this chest pain. Should I come in or go to the ER?
+
+PATIENT: Hello? Did you hear me? I'm really anxious about this chest pain. What should I do?
+
+PATIENT: Hello? I need some guidance here. Should I head to the ER or is it okay to come in?
+
+PATIENT: Is anyone there? I really need help deciding what to do about this chest pain.
+
+PATIENT: I’m still here. Can you please let me know what I should do? I'm getting more worried.
+
+PATIENT: This is really frustrating. I need to know if I should go to the ER or if I can come in.
+
+PATIENT: Hello? I really need to talk to someone. Can you please help me?
+

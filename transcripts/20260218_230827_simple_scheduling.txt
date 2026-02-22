@@ -1,0 +1,23 @@
+Call Transcript: simple_scheduling
+Call SID: CA3488f9d808b837bbe423d488c3c4050e
+Date: 20260218_230827
+============================================================
+
+PATIENT: Hi, I'm calling to schedule a routine checkup appointment.
+
+AGENT:   recorded for quality and training purposes phoenix of pretty good ai am i speaking with sarah
+
+PATIENT: Yes, this is Sarah Johnson.
+
+AGENT:   got it sarah can you please tell me your date of birth to verify your identity
+
+PATIENT: Sure, my date of birth is March 15, 1990.
+
+AGENT:   thanks let me confirm your information i have your first name as sarah and your date of birth as march fifteenth nineteen ninety one moment while i verify your identity
+
+PATIENT: Actually, it's March 15, 1990, not 1991.
+
+AGENT:   got it sarah
+
+PATIENT: Thank you! I’d like to schedule my appointment for next week. I'm available Tuesday or Thursday afternoons.
+

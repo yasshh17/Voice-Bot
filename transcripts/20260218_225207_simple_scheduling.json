@@ -1,0 +1,12 @@
+{
+  "call_sid": "CAf5c3b9c75f0c3ceb64e559082e0775c8",
+  "scenario": "simple_scheduling",
+  "timestamp": "20260218_225207",
+  "conversation": [
+    {
+      "speaker": "patient_bot",
+      "text": "Hi, I'm calling to schedule a routine checkup appointment.",
+      "timestamp": "2026-02-18T22:51:12.533241"
+    }
+  ]
+}

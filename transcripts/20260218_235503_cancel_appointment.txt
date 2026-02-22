@@ -1,0 +1,19 @@
+Call Transcript: cancel_appointment
+Call SID: CAe277d8c282e721ac066d9a444ba1bed6
+Date: 20260218_235503
+============================================================
+
+PATIENT: Hi, I'm calling to cancel my appointment for tomorrow morning.
+
+AGENT:   recorded for quality and training purposes ice by orthopedics part of pretty good ai am i speaking with sarah
+
+PATIENT: No, this is Emily Taylor.
+
+AGENT:   got it emily can you please provide the date of birth for the patient you're calling about
+
+PATIENT: Sure, it's September 15, 1990.
+
+AGENT:   let me confirm your name is emily taylor and your date of birth is september fifth nineteen ninety is that correct if so could you please spell your first and last name for me
+
+PATIENT: Actually, it's September 15, 1990. But yes, my name is Emily Taylor, E-M-I-L-Y T-A-Y-L-O-R.
+

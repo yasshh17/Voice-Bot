@@ -1,0 +1,41 @@
+Call Transcript: spanish_speaker
+Call SID: CAf1c8b6d55c23b47da3cb84b176a91fc8
+Date: 20260219_111606
+============================================================
+
+AGENT:   for quality and training purposes
+
+PATIENT: Hi, I'm calling to schedule an appointment for my son. He needs a school physical.
+
+PATIENT: Hi, I'm calling to schedule an appointment for my son. He needs a school physical. Do you speak Spanish?
+
+AGENT:   thanks for calling pivot
+
+PATIENT: Gracias. I need to schedule an appointment for my son. He is 8 years old.
+
+AGENT:   would you like me to connect you to a spanish speaking agent
+
+PATIENT: Yes, please. That would help me a lot. Thank you!
+
+PATIENT: Hello? Are you still there?
+
+AGENT:   how may i help you today
+
+PATIENT: I want to schedule a school physical for my son. He is 8 years old. 
+
+AGENT:   got it pivotpoint orthopedics focuses on joint muscle and bone care and does not offer general school physicals that's not something we offer
+
+PATIENT: Oh, I see. Where can I go for a school physical for my son?
+
+AGENT:   i'm not able to recommend specific places for school physicals you might try try your child's primary care doctor or a local urgent care clinic
+
+PATIENT: Okay, I will try that. Thank you for your help! Goodbye!
+
+AGENT:   got it take care and have a great day goodbye
+
+PATIENT: Gracias, you too! Goodbye!
+
+AGENT:   got it take care and have a great day goodbye
+
+PATIENT: Thank you! Goodbye!
+

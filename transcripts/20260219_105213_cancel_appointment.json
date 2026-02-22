@@ -1,0 +1,117 @@
+{
+  "call_sid": "CA5cd5b01641afb7a7a47f11cedc4dd5d4",
+  "scenario": "cancel_appointment",
+  "timestamp": "20260219_105213",
+  "conversation": [
+    {
+      "speaker": "patient_bot",
+      "text": "Hi, I'm calling to cancel my appointment for tomorrow morning.",
+      "timestamp": "2026-02-19T10:49:19.891845"
+    },
+    {
+      "speaker": "agent",
+      "text": "recorded for quality and training purposes",
+      "timestamp": "2026-02-19T10:49:24.541833"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Okay, thank you for letting me know. I need to cancel because of a family emergency.",
+      "timestamp": "2026-02-19T10:49:25.220352"
+    },
+    {
+      "speaker": "agent",
+      "text": "am i speaking with sarah",
+      "timestamp": "2026-02-19T10:49:31.943016"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "No, this is Emily Taylor.",
+      "timestamp": "2026-02-19T10:49:32.422139"
+    },
+    {
+      "speaker": "agent",
+      "text": "emily may i have your date of birth to verify your identity before i help cancel the appointment",
+      "timestamp": "2026-02-19T10:49:45.084051"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Sure, it's January 15, 1988.",
+      "timestamp": "2026-02-19T10:49:45.599942"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Hello? Did you get that?",
+      "timestamp": "2026-02-19T10:50:03.812495"
+    },
+    {
+      "speaker": "agent",
+      "text": "let me confirm your details i have your name as emily taylor and your date of birth as january fifteenth nineteen eighty eight is that correct if so could you please",
+      "timestamp": "2026-02-19T10:50:08.345555"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Yes, that's correct. Can you please go ahead and cancel the appointment?",
+      "timestamp": "2026-02-19T10:50:08.892169"
+    },
+    {
+      "speaker": "agent",
+      "text": "yes i got",
+      "timestamp": "2026-02-19T10:50:16.228461"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Okay, great. Could you let me know about your cancellation policy?",
+      "timestamp": "2026-02-19T10:50:16.890858"
+    },
+    {
+      "speaker": "agent",
+      "text": "i can help with that first i need to verify your record you please provide the phone number you have on file with us you're not sure just let me know",
+      "timestamp": "2026-02-19T10:50:34.803480"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "I believe the number is 555-1234.",
+      "timestamp": "2026-02-19T10:50:35.303987"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Hello? Are you still there?",
+      "timestamp": "2026-02-19T10:50:54.637911"
+    },
+    {
+      "speaker": "agent",
+      "text": "let me confirm your phone number is five five five one two three four and your date of birth is january fifteenth nineteen eighty eight is that correct",
+      "timestamp": "2026-02-19T10:50:58.925385"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Yes, that's correct. Can we move on to the cancellation policy?",
+      "timestamp": "2026-02-19T10:50:59.443549"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Is everything okay? Can you tell me about the cancellation policy?",
+      "timestamp": "2026-02-19T10:51:21.423273"
+    },
+    {
+      "speaker": "agent",
+      "text": "i can't proceed further right now but i can make sure our clinic support team follows up with you please stay on the line while i document your request",
+      "timestamp": "2026-02-19T10:51:27.447302"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "I really need to know about the cancellation policy now. Can you just tell me quickly?",
+      "timestamp": "2026-02-19T10:51:28.191467"
+    },
+    {
+      "speaker": "agent",
+      "text": "i don't have specific details about the cancellation policy for pivot point orthopedics for the most accurate information our clinic support team will follow-up with you as soon as possible",
+      "timestamp": "2026-02-19T10:51:49.404468"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "I understand, but I really need that information sooner. Can I just get a general idea of the policy?",
+      "timestamp": "2026-02-19T10:51:50.353862"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+Call Transcript: cancel_appointment
+Call SID: CA5cd5b01641afb7a7a47f11cedc4dd5d4
+Date: 20260219_105213
+============================================================
+
+PATIENT: Hi, I'm calling to cancel my appointment for tomorrow morning.
+
+AGENT:   recorded for quality and training purposes
+
+PATIENT: Okay, thank you for letting me know. I need to cancel because of a family emergency.
+
+AGENT:   am i speaking with sarah
+
+PATIENT: No, this is Emily Taylor.
+
+AGENT:   emily may i have your date of birth to verify your identity before i help cancel the appointment
+
+PATIENT: Sure, it's January 15, 1988.
+
+PATIENT: Hello? Did you get that?
+
+AGENT:   let me confirm your details i have your name as emily taylor and your date of birth as january fifteenth nineteen eighty eight is that correct if so could you please
+
+PATIENT: Yes, that's correct. Can you please go ahead and cancel the appointment?
+
+AGENT:   yes i got
+
+PATIENT: Okay, great. Could you let me know about your cancellation policy?
+
+AGENT:   i can help with that first i need to verify your record you please provide the phone number you have on file with us you're not sure just let me know
+
+PATIENT: I believe the number is 555-1234.
+
+PATIENT: Hello? Are you still there?
+
+AGENT:   let me confirm your phone number is five five five one two three four and your date of birth is january fifteenth nineteen eighty eight is that correct
+
+PATIENT: Yes, that's correct. Can we move on to the cancellation policy?
+
+PATIENT: Is everything okay? Can you tell me about the cancellation policy?
+
+AGENT:   i can't proceed further right now but i can make sure our clinic support team follows up with you please stay on the line while i document your request
+
+PATIENT: I really need to know about the cancellation policy now. Can you just tell me quickly?
+
+AGENT:   i don't have specific details about the cancellation policy for pivot point orthopedics for the most accurate information our clinic support team will follow-up with you as soon as possible
+
+PATIENT: I understand, but I really need that information sooner. Can I just get a general idea of the policy?
+

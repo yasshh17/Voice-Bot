@@ -1,0 +1,15 @@
+Call Transcript: confused_elderly
+Call SID: CA8061df38cca7da607aa09b9347504c63
+Date: 20260218_232623
+============================================================
+
+PATIENT: Hi, I'm calling to find out which doctor I'm supposed to see. I think it might be Dr. Smith or maybe Dr. Jones?
+
+AGENT:   recorded for quality and training purposes
+
+PATIENT: Oh, okay. Thanks for letting me know. I'm just a bit confused about which doctor I need to see.
+
+AGENT:   done i can help you figure that out can you tell me your date of birth so i can look up your information
+
+PATIENT: Sure, it's August 15, 1945. I'm just trying to remember if it's Dr. Smith or Dr. Jones.
+

@@ -1,0 +1,7 @@
+Call Transcript: simple_scheduling
+Call SID: CA3092e67912c80204675bd0704e6075a6
+Date: 20260218_225029
+============================================================
+
+PATIENT: Hi, I'm calling to schedule a routine checkup appointment.
+

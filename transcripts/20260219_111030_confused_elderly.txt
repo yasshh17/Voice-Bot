@@ -1,0 +1,19 @@
+Call Transcript: confused_elderly
+Call SID: CA180fc1ca78deec32f9316f13f0507e0a
+Date: 20260219_111030
+============================================================
+
+PATIENT: Hi, I'm calling to find out about an appointment I have, but I'm a bit confused about which doctor I need to see. I think it was Dr. Smith or maybe Dr. Jones.
+
+AGENT:   recorded for quality and training purposes
+
+PATIENT: Oh, okay, that's fine. I just want to make sure I'm speaking to the right person about my appointment.
+
+AGENT:   thanks for calling tip
+
+PATIENT: Sure thing! Can you help me figure out if I’m supposed to see Dr. Smith or Dr. Jones? I seem to be a little mixed up.
+
+PATIENT: Hello? Are you still there? I just want to make sure I get the right doctor.
+
+PATIENT: Hello? Can you hear me? I really need help finding out about my appointment.
+

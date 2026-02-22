@@ -1,0 +1,79 @@
+Call Transcript: interruption_test
+Call SID: CA6f22915197d7b8195b7ebc352a3f0e83
+Date: 20260218_233155
+============================================================
+
+PATIENT: Hi, I'm calling to schedule an appointment with Dr. Smith.
+
+AGENT:   recorded for quality and training purposes by pedix part of pretty good ai am i speaking with sarah
+
+PATIENT: No, this is Alex Wright.
+
+AGENT:   got it alex can i get your date of birth to verify your identity
+
+PATIENT: Sure, it's May 15, 1990.
+
+AGENT:   thanks alex and just to confirm can you provide your last name as well
+
+PATIENT: It's Wright, W-R-I-G-H-T.
+
+AGENT:   let me confirm your name is alex wright and your date of birth is may fifteenth nineteen ninety is that correct
+
+PATIENT: Yes, that's correct.
+
+AGENT:   would you like to use your phone number to look up your record if so please tell me the number you have on file with us if you're not sure just let me know
+
+PATIENT: Yes, it's 555-1234.
+
+AGENT:   let me confirm i have your phone number as five five five one two three four and your date of birth as may fifteenth nineteen ninety is that correct
+
+PATIENT: Yes, that's right.
+
+AGENT:   i can't verify your information right now but i can make sure our clinic support team follows up with you please hold on while i document this for follow-up
+
+PATIENT: Oh, wait, before you do that, can I ask about my insurance coverage for the appointment?
+
+AGENT:   i can connect you to our patient support team however i'm a pretty good ai and can do many of the things an operator can do you want to give me a try
+
+PATIENT: Sure, that would be great. I just want to know if my insurance is accepted.
+
+AGENT:   got it let me check on your insurance question one moment while i look into that for you
+
+PATIENT: Thanks, I appreciate it.
+
+AGENT:   i can't check your insurance details right now but i'll connect you to our clinic support team for help please stay on the line
+
+PATIENT: Alright, that sounds good. Thank you.
+
+AGENT:   live trans
+
+PATIENT: Hello? Is someone there?
+
+AGENT:   got it
+
+PATIENT: Okay, great! Can I go back to scheduling my appointment now?
+
+AGENT:   yes i'm here
+
+PATIENT: Thanks! I'd like to schedule an appointment with Dr. Smith. When is the next available slot?
+
+AGENT:   we don't have a doctor smith at pivot point orthopedics our doctors are doctor judy hauser doctor doug ross and doctor adam bricker would you like to schedule with one of them
+
+PATIENT: Oh, I must have gotten the name wrong. Can I schedule with Dr. Hauser?
+
+AGENT:   no problem i'll help you schedule with doctor dougie hauser one moment while i check the next available appointment
+
+PATIENT: Thank you! I appreciate your help.
+
+AGENT:   got it if you need anything else just let me know
+
+PATIENT: Will do! Just let me know what the next available time is.
+
+AGENT:   i can't check appointment times right now because i could couldn't verify your information the clinic support team can help you with scheduling when you speak with them
+
+PATIENT: I see, that makes sense. Can you connect me to the clinic support team now?
+
+AGENT:   live transfer isn't available right now but the clinic support team can help you when they're available if you have any other questions i'm here to help
+
+PATIENT: Okay, I understand. I don't have any other questions right now. Thank you for your help! Goodbye!
+

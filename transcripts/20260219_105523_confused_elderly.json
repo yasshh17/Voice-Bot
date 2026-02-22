@@ -1,0 +1,77 @@
+{
+  "call_sid": "CA1bdd16bef94c7d2883bd7b6371254ff1",
+  "scenario": "confused_elderly",
+  "timestamp": "20260219_105523",
+  "conversation": [
+    {
+      "speaker": "patient_bot",
+      "text": "Hi, I'm calling to find out which doctor I\u2019m supposed to see. I think it might be Dr. Smith or maybe Dr. Jones?",
+      "timestamp": "2026-02-19T10:52:29.894786"
+    },
+    {
+      "speaker": "agent",
+      "text": "recorded for quality and training purposes",
+      "timestamp": "2026-02-19T10:52:37.679755"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Oh, okay. I just need to know about my appointment with Dr. Smith or Dr. Jones, if you could help me with that.",
+      "timestamp": "2026-02-19T10:52:38.565034"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Hello? Are you still there? I just need a little help with my appointment.",
+      "timestamp": "2026-02-19T10:52:57.722122"
+    },
+    {
+      "speaker": "agent",
+      "text": "i can help with that to look up your appointment i'll need your date of birth could you please provide that",
+      "timestamp": "2026-02-19T10:53:03.612062"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Sure, it's July 15, 1945. I hope that helps!",
+      "timestamp": "2026-02-19T10:53:04.139999"
+    },
+    {
+      "speaker": "agent",
+      "text": "got it just to confirm can you please spell out your full name for me i have your date of birth as july fifteenth nineteen forty five",
+      "timestamp": "2026-02-19T10:53:23.778735"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Of course, it\u2019s Robert Johnson. That\u2019s R-O-B-E-R-T J-O-H-N-S-O-N.",
+      "timestamp": "2026-02-19T10:53:24.648955"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Hello? Did you get that? It's Robert Johnson.",
+      "timestamp": "2026-02-19T10:53:42.757414"
+    },
+    {
+      "speaker": "agent",
+      "text": "got it you like me to look up your record using your phone number if so please provide the number you have on file with us if you're not sure just let me know",
+      "timestamp": "2026-02-19T10:53:48.336284"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Sure, the number is 555-123-4567. I hope that\u2019s the right one.",
+      "timestamp": "2026-02-19T10:53:49.026494"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Hello? Can you hear me? I gave you my phone number.",
+      "timestamp": "2026-02-19T10:54:11.255782"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Uh, is everything alright? I just need to know about my appointment with Dr. Smith or Dr. Jones.",
+      "timestamp": "2026-02-19T10:54:39.558723"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Hello? Are you still there? I really need some help with this.",
+      "timestamp": "2026-02-19T10:55:10.493039"
+    }
+  ]
+}

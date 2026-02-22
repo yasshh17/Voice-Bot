@@ -1,0 +1,27 @@
+{
+  "call_sid": "CAf89c6645d5cc597806b4ac63610ce1ec",
+  "scenario": "insurance_question",
+  "timestamp": "20260220_002250",
+  "conversation": [
+    {
+      "speaker": "agent",
+      "text": "recorded for quality and training purposes",
+      "timestamp": "2026-02-20T00:21:24.093158"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Hi, I'm calling to inquire about becoming a new patient at your practice.",
+      "timestamp": "2026-02-20T00:21:24.221191"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "That's fine, thank you. Can you tell me what insurance plans you accept? I'm particularly interested in Aetna PPO.",
+      "timestamp": "2026-02-20T00:21:30.058338"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Hello? Are you still there?",
+      "timestamp": "2026-02-20T00:22:04.774464"
+    }
+  ]
+}

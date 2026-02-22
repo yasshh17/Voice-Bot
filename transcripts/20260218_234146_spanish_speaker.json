@@ -1,0 +1,42 @@
+{
+  "call_sid": "CA664bf460683984e4ff29ad36af1dafcc",
+  "scenario": "spanish_speaker",
+  "timestamp": "20260218_234146",
+  "conversation": [
+    {
+      "speaker": "patient_bot",
+      "text": "Hi, I'm calling to make an appointment for my son. He needs a school physical.",
+      "timestamp": "2026-02-18T23:26:21.056435"
+    },
+    {
+      "speaker": "agent",
+      "text": "recorded for quality and training purposes but i pretty good ai am i speaking with sarah",
+      "timestamp": "2026-02-18T23:26:31.109232"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "No, my name is Maria Garcia. I want to schedule an appointment for my son, please. Do you speak espa\u00f1ol?",
+      "timestamp": "2026-02-18T23:26:31.818397"
+    },
+    {
+      "speaker": "agent",
+      "text": "would you like me to connect you to a spanish speaking agent",
+      "timestamp": "2026-02-18T23:26:44.951527"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Yes, please. That would be helpful. Thank you!",
+      "timestamp": "2026-02-18T23:26:45.371946"
+    },
+    {
+      "speaker": "agent",
+      "text": "are you a steal there",
+      "timestamp": "2026-02-18T23:27:17.952104"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "I think you meant to say \"still there.\" Yes, I'm here. Thank you! Can you connect me to a Spanish-speaking agent?",
+      "timestamp": "2026-02-18T23:27:18.686152"
+    }
+  ]
+}

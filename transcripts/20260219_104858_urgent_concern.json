@@ -1,0 +1,52 @@
+{
+  "call_sid": "CAc6c518c1b51d4345662152f776ec3ef7",
+  "scenario": "urgent_concern",
+  "timestamp": "20260219_104858",
+  "conversation": [
+    {
+      "speaker": "patient_bot",
+      "text": "Hi, I'm calling to see if I should come in today. I've been having some chest pain for the past hour.",
+      "timestamp": "2026-02-19T10:46:05.929661"
+    },
+    {
+      "speaker": "agent",
+      "text": "for quality and training purposes",
+      "timestamp": "2026-02-19T10:46:06.032711"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "I understand, but I'm really concerned about this chest pain. Should I come in or go to the ER?",
+      "timestamp": "2026-02-19T10:46:07.314662"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Hello? Did you hear me? I'm really anxious about this chest pain. What should I do?",
+      "timestamp": "2026-02-19T10:46:26.006056"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Hello? I need some guidance here. Should I head to the ER or is it okay to come in?",
+      "timestamp": "2026-02-19T10:46:56.973126"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Is anyone there? I really need help deciding what to do about this chest pain.",
+      "timestamp": "2026-02-19T10:47:26.713212"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "I\u2019m still here. Can you please let me know what I should do? I'm getting more worried.",
+      "timestamp": "2026-02-19T10:47:55.964636"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "This is really frustrating. I need to know if I should go to the ER or if I can come in.",
+      "timestamp": "2026-02-19T10:48:25.929131"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Hello? I really need to talk to someone. Can you please help me?",
+      "timestamp": "2026-02-19T10:48:55.958901"
+    }
+  ]
+}

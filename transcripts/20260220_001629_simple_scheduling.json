@@ -1,0 +1,32 @@
+{
+  "call_sid": "CA0ccc051890140cca4261dc705a3da538",
+  "scenario": "simple_scheduling",
+  "timestamp": "20260220_001629",
+  "conversation": [
+    {
+      "speaker": "patient_bot",
+      "text": "Hi, I'm calling to schedule a routine checkup appointment.",
+      "timestamp": "2026-02-20T00:15:00.298605"
+    },
+    {
+      "speaker": "agent",
+      "text": "recorded for quality and training purposes",
+      "timestamp": "2026-02-20T00:15:00.318663"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "That's fine, thank you! I\u2019d like to schedule a checkup for next week.",
+      "timestamp": "2026-02-20T00:15:05.016695"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Hello? Are you still there?",
+      "timestamp": "2026-02-20T00:15:41.300420"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Hello? Is everything okay?",
+      "timestamp": "2026-02-20T00:16:29.367330"
+    }
+  ]
+}

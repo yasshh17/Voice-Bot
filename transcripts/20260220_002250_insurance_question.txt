@@ -1,0 +1,13 @@
+Call Transcript: insurance_question
+Call SID: CAf89c6645d5cc597806b4ac63610ce1ec
+Date: 20260220_002250
+============================================================
+
+AGENT:   recorded for quality and training purposes
+
+PATIENT: Hi, I'm calling to inquire about becoming a new patient at your practice.
+
+PATIENT: That's fine, thank you. Can you tell me what insurance plans you accept? I'm particularly interested in Aetna PPO.
+
+PATIENT: Hello? Are you still there?
+

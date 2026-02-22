@@ -1,0 +1,32 @@
+{
+  "call_sid": "CA8061df38cca7da607aa09b9347504c63",
+  "scenario": "confused_elderly",
+  "timestamp": "20260218_232623",
+  "conversation": [
+    {
+      "speaker": "patient_bot",
+      "text": "Hi, I'm calling to find out which doctor I'm supposed to see. I think it might be Dr. Smith or maybe Dr. Jones?",
+      "timestamp": "2026-02-18T23:24:50.754381"
+    },
+    {
+      "speaker": "agent",
+      "text": "recorded for quality and training purposes",
+      "timestamp": "2026-02-18T23:24:59.547799"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Oh, okay. Thanks for letting me know. I'm just a bit confused about which doctor I need to see.",
+      "timestamp": "2026-02-18T23:25:00.553425"
+    },
+    {
+      "speaker": "agent",
+      "text": "done i can help you figure that out can you tell me your date of birth so i can look up your information",
+      "timestamp": "2026-02-18T23:25:15.805336"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Sure, it's August 15, 1945. I'm just trying to remember if it's Dr. Smith or Dr. Jones.",
+      "timestamp": "2026-02-18T23:25:16.834789"
+    }
+  ]
+}

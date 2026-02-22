@@ -1,0 +1,192 @@
+{
+  "call_sid": "CA6f22915197d7b8195b7ebc352a3f0e83",
+  "scenario": "interruption_test",
+  "timestamp": "20260218_233155",
+  "conversation": [
+    {
+      "speaker": "patient_bot",
+      "text": "Hi, I'm calling to schedule an appointment with Dr. Smith.",
+      "timestamp": "2026-02-18T23:27:06.231838"
+    },
+    {
+      "speaker": "agent",
+      "text": "recorded for quality and training purposes by pedix part of pretty good ai am i speaking with sarah",
+      "timestamp": "2026-02-18T23:27:15.920734"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "No, this is Alex Wright.",
+      "timestamp": "2026-02-18T23:27:16.478353"
+    },
+    {
+      "speaker": "agent",
+      "text": "got it alex can i get your date of birth to verify your identity",
+      "timestamp": "2026-02-18T23:27:27.310666"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Sure, it's May 15, 1990.",
+      "timestamp": "2026-02-18T23:27:27.986052"
+    },
+    {
+      "speaker": "agent",
+      "text": "thanks alex and just to confirm can you provide your last name as well",
+      "timestamp": "2026-02-18T23:27:39.099650"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "It's Wright, W-R-I-G-H-T.",
+      "timestamp": "2026-02-18T23:27:40.040760"
+    },
+    {
+      "speaker": "agent",
+      "text": "let me confirm your name is alex wright and your date of birth is may fifteenth nineteen ninety is that correct",
+      "timestamp": "2026-02-18T23:27:57.798957"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Yes, that's correct.",
+      "timestamp": "2026-02-18T23:27:58.771158"
+    },
+    {
+      "speaker": "agent",
+      "text": "would you like to use your phone number to look up your record if so please tell me the number you have on file with us if you're not sure just let me know",
+      "timestamp": "2026-02-18T23:28:13.661398"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Yes, it's 555-1234.",
+      "timestamp": "2026-02-18T23:28:14.261689"
+    },
+    {
+      "speaker": "agent",
+      "text": "let me confirm i have your phone number as five five five one two three four and your date of birth as may fifteenth nineteen ninety is that correct",
+      "timestamp": "2026-02-18T23:28:34.122737"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Yes, that's right.",
+      "timestamp": "2026-02-18T23:28:34.818549"
+    },
+    {
+      "speaker": "agent",
+      "text": "i can't verify your information right now but i can make sure our clinic support team follows up with you please hold on while i document this for follow-up",
+      "timestamp": "2026-02-18T23:28:54.040335"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Oh, wait, before you do that, can I ask about my insurance coverage for the appointment?",
+      "timestamp": "2026-02-18T23:28:54.873236"
+    },
+    {
+      "speaker": "agent",
+      "text": "i can connect you to our patient support team however i'm a pretty good ai and can do many of the things an operator can do you want to give me a try",
+      "timestamp": "2026-02-18T23:29:14.142378"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Sure, that would be great. I just want to know if my insurance is accepted.",
+      "timestamp": "2026-02-18T23:29:15.005196"
+    },
+    {
+      "speaker": "agent",
+      "text": "got it let me check on your insurance question one moment while i look into that for you",
+      "timestamp": "2026-02-18T23:29:30.927055"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Thanks, I appreciate it.",
+      "timestamp": "2026-02-18T23:29:32.396981"
+    },
+    {
+      "speaker": "agent",
+      "text": "i can't check your insurance details right now but i'll connect you to our clinic support team for help please stay on the line",
+      "timestamp": "2026-02-18T23:29:47.421572"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Alright, that sounds good. Thank you.",
+      "timestamp": "2026-02-18T23:29:48.480241"
+    },
+    {
+      "speaker": "agent",
+      "text": "live trans",
+      "timestamp": "2026-02-18T23:29:53.701504"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Hello? Is someone there?",
+      "timestamp": "2026-02-18T23:29:54.485801"
+    },
+    {
+      "speaker": "agent",
+      "text": "got it",
+      "timestamp": "2026-02-18T23:29:59.358659"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Okay, great! Can I go back to scheduling my appointment now?",
+      "timestamp": "2026-02-18T23:30:00.409724"
+    },
+    {
+      "speaker": "agent",
+      "text": "yes i'm here",
+      "timestamp": "2026-02-18T23:30:06.313669"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Thanks! I'd like to schedule an appointment with Dr. Smith. When is the next available slot?",
+      "timestamp": "2026-02-18T23:30:07.227380"
+    },
+    {
+      "speaker": "agent",
+      "text": "we don't have a doctor smith at pivot point orthopedics our doctors are doctor judy hauser doctor doug ross and doctor adam bricker would you like to schedule with one of them",
+      "timestamp": "2026-02-18T23:30:30.743885"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Oh, I must have gotten the name wrong. Can I schedule with Dr. Hauser?",
+      "timestamp": "2026-02-18T23:30:31.723125"
+    },
+    {
+      "speaker": "agent",
+      "text": "no problem i'll help you schedule with doctor dougie hauser one moment while i check the next available appointment",
+      "timestamp": "2026-02-18T23:30:48.644807"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Thank you! I appreciate your help.",
+      "timestamp": "2026-02-18T23:30:49.449787"
+    },
+    {
+      "speaker": "agent",
+      "text": "got it if you need anything else just let me know",
+      "timestamp": "2026-02-18T23:31:02.678251"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Will do! Just let me know what the next available time is.",
+      "timestamp": "2026-02-18T23:31:03.461992"
+    },
+    {
+      "speaker": "agent",
+      "text": "i can't check appointment times right now because i could couldn't verify your information the clinic support team can help you with scheduling when you speak with them",
+      "timestamp": "2026-02-18T23:31:20.220835"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "I see, that makes sense. Can you connect me to the clinic support team now?",
+      "timestamp": "2026-02-18T23:31:21.239644"
+    },
+    {
+      "speaker": "agent",
+      "text": "live transfer isn't available right now but the clinic support team can help you when they're available if you have any other questions i'm here to help",
+      "timestamp": "2026-02-18T23:31:38.577569"
+    },
+    {
+      "speaker": "patient_bot",
+      "text": "Okay, I understand. I don't have any other questions right now. Thank you for your help! Goodbye!",
+      "timestamp": "2026-02-18T23:31:39.531875"
+    }
+  ]
+}
