@@ -1,6 +1,6 @@
 # Voice Bot — Automated AI Phone Agent Tester
 
-An automated voice bot that calls Pretty Good AI's test line, simulates realistic patient scenarios, and identifies bugs in their AI agent.
+An automated voice bot that calls AI's test line, simulates realistic patient scenarios, and identifies bugs in their AI agent.
 
 ## Results
 
